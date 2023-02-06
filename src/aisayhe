@@ -1,0 +1,9 @@
+<Route path="sports" element=<App country="us" category="general"/> />
+<Route path="science" element=<App country="us" category="general"/> />
+<Route path="entertainment" element=<App country="us" category="general"/> />
+<Route path="science" element=<App country="us" category="general"/> />
+<Route path="nusiness" element=<App country="us" category="general"/> />
+<Route path="technology" element=<App country="us" category="general"/> />
+<Route path="health" element=<App country="us" category="general"/> />
+
+ <Route path="" element=<App country="us" category="general"/> />
